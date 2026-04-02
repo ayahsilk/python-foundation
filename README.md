@@ -9,3 +9,6 @@ wrote and executed my first phython script: 'myfirstcodehello.py'.
 *python 3
 *VS code (via codespaces)
 *git for version control
+#lesson 2: variables, input, f-string
+learned how to use input() and variables
+created story generator mini projects
