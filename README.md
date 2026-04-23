@@ -12,3 +12,5 @@ wrote and executed my first phython script: 'myfirstcodehello.py'.
 #lesson 2: variables, input, f-string
 learned how to use input() and variables
 created story generator mini projects
+README Update: lesson 3: conditional logic (if/else)
+
