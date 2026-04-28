@@ -8,6 +8,7 @@ print(stromboli)
 stromboli.sort()#sorts from cheapest to most expensive
 print("\nSorted Menu:")
 print(stromboli)
+cheapest_stromboli=stromboli[0]
 priciest_stromboli=stromboli[-1]#gets the last item
 three_cheapest=stromboli[:3] #slices from index 0 to 2
 print(f"\ncheapest option:{cheapest_stromboli}")
