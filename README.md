@@ -66,3 +66,4 @@ core skills
 *clean code: using proper spacing, naming, and structure
 *optimization: improving code so it runs better and faster
 *readability: making code easier to understand for others
+today i tried to learn and solve errors on my own
