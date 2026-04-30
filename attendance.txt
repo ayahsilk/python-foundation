@@ -1,0 +1,7 @@
+sheenaz:present
+ayah:present
+maryam:absent
+sara:absent
+omar:present
+danya:present
+
