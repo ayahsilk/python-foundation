@@ -1,5 +1,4 @@
 import random
-
 fortune_number=random.randint(1,8)
 lucky_number=random.randint(1,100)
 fortune_text=""
